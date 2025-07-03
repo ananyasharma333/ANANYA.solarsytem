@@ -15,4 +15,8 @@ This project is a **3D simulation of the Solar System** built using [Three.js](h
 - 🪐 Rings on Saturn
 - 🧭 Camera zooms to planets on click
 
-# ANANYA.solarsytem
+## 📂 Folder Structure
+
+
+
+
